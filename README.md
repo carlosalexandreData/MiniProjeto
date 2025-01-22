@@ -1,6 +1,6 @@
 Painel de Análise de Desempenho de Funcionários para a Área de Recursos Humanos
 
-Descrição: Este projeto consiste na criação de um painel interativo de análise de desempenho de funcionários, desenvolvido no Power BI, que visa fornecer insights estratégicos para a gestão de Recursos Humanos. Utilizando dados fictícios, o painel apresenta métricas essenciais, como produtividade, taxa de absenteísmo e satisfação dos funcionários, permitindo uma visualização clara do desempenho individual e coletivo.
+Descrição: Este projeto consiste na criação de um painel interativo de análise de desempenho de funcionários, desenvolvido no Power BI, que visa fornecer insights estratégicos para a gestão de Recursos Humanos. Utilizando dados fictícios, o painel apresenta métricas essenciais, como produtividade, remunerações geral, permitindo uma visualização clara do desempenho individual e coletivo.
 
 
 Dashboard de Performance de Vendas
